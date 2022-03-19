@@ -1,0 +1,12 @@
+[package]
+name = "ikatimer"
+version = "0.1.0"
+edition = "2021"
+authors = ["Numbers the Regal Jumping Spider"]
+license = "MIT"
+# repository =
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+stopwatch = "0.0.7"
